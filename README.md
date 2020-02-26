@@ -1,4 +1,5 @@
 # E07a-Save-and-Load    
+I finished the exercise.
 
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
